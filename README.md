@@ -18,7 +18,7 @@ Clone the Repository:
 Clone this repository to your remote VS Code instance:
 bash
 Copy code
-git clone https://github.com/your-username/openweather_etl.git
+git clone https://github.com/jalisastewart/openweather_etl.git
 
 Obtain OpenWeatherMap API Key:
 Sign up for an API key on the OpenWeatherMap website if you haven't already.
